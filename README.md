@@ -197,5 +197,5 @@ exec java -cp ./data/client/tank.jar:./data/client/classes ele.me.hackathon.tank
 
 # 作者
 
-Produced by [halfrost](https://github.com/halfrost)、[mmoaay](https://github.com/mmoaay) and [EyreFree](https://github.com/EyreFree).
+Produced by [JinShan](https://github.com/kiddodev050).
 
